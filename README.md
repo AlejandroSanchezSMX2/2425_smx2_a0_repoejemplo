@@ -23,3 +23,7 @@ Este texto está en *cursiva* y éste también esta en _cursiva_
 * Elemento 1
 - Elemento 2
 + Elemento 3
+
+``# Encabezado``
+
+[Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
