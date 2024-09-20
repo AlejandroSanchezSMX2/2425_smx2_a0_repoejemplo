@@ -27,3 +27,5 @@ Este texto está en *cursiva* y éste también esta en _cursiva_
 ``# Encabezado``
 
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
+
+![Caballos](https://github.com/AlejandroSanchezSMX2/2425_smx2_a0_repoejemplo/blob/main/Caballos.jpg "Titulo opcional de la imagen")
