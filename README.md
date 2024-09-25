@@ -29,3 +29,15 @@ Este texto está en *cursiva* y éste también esta en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto Opcional")
 
 ![Caballos](https://github.com/AlejandroSanchezSMX2/2425_smx2_a0_repoejemplo/blob/main/Caballos.jpg "Titulo opcional de la imagen")
+
+|Columna 1 |Columna 2 | Columna 3 |
+|----------|:----------:|----------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
+
+
+
+
+
+
